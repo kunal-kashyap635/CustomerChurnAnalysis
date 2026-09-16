@@ -1,0 +1,33 @@
+# Virtual environment
+
+env/
+venv/
+.venv/
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+
+# Environment variables
+
+.env
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Build / distribution
+
+build/
+dist/
+*.egg-info/
+
+# IDE
+
+.vscode/
+.idea/
+
+# Logs
+
+*.log
